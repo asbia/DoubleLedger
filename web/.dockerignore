@@ -1,0 +1,36 @@
+# Ignore node_modules
+node_modules
+
+# Ignore logs
+logs
+*.log
+npm-debug.log*
+
+# Ignore test files
+cypress/screenshots/
+cypress/videos/
+
+# Ignore local development environment files
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore build outputs
+build
+dist
+
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore Docker files
+Dockerfile*
+docker-compose.yml
+
+# Ignore miscellaneous files
+*.swp
+*.swo
+*.bak
+*.tmp
