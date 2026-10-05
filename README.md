@@ -2,7 +2,6 @@
 
 **A double-entry ledger service with idempotent payment APIs, an append-only event log, automated reconciliation, and a documented load test and security review.**
 
-> Working title. Status: **design phase**. Commands and endpoints below describe the intended interface. Every value marked `TBD` will be filled in only from measured results.
 
 ---
 
